@@ -1,68 +1,54 @@
-<!-- =========================
-     ✨ SHOW-STOPPER HERO HEADER — R PROJECT ✨
-     Paste this AT THE TOP of your README.md (no links, no images)
-     A compact, high-impact visual that grabs attention instantly
-========================= -->
+<!-- =============================
+   SHOW-STOPPER ANIMATED README HEADER
+   Paste this at the top of README.md
+   Replace banner.gif with your own animated GIF in /assets if desired
+   ============================= -->
 
-<div align="center">
+<div align="center" style="margin-top:6px;">
 
-# 🎯 **College Admission Analysis** — *in R*
-### *Predict • Explain • Recommend*
+<!-- Title -->
+<h1 style="margin-bottom:6px; font-size:46px; line-height:1; letter-spacing: -1px;">
+  <strong>College Admission Analysis</strong>
+</h1>
 
-<p>
-<span style="font-size:14px">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+<!-- Subheading with subtle gradient text using an inline SVG image (typing effect below adds motion) -->
+<p style="margin-top:0; margin-bottom:8px; font-size:18px; color:#6b7280;">
+  Predict • Explain • Recommend — academic admissions decoded with data & models
 </p>
 
-<pre style="line-height:0.8; font-family: monospace;">
-██████╗  ██████╗  ██╗     ██╗   ██╗ ██████╗  ██████╗ ███████╗██████╗ 
-██╔══██╗██╔═══██╗ ██║     ██║   ██║██╔═══██╗██╔═══██╗██╔════╝██╔══██╗
-██████╔╝██║   ██║ ██║     ██║   ██║██║   ██║██║   ██║█████╗  ██████╔╝
-██╔═══╝ ██║   ██║ ██║     ██║   ██║██║   ██║██║   ██║██╔══╝  ██╔══██╗
-██║     ╚██████╔╝ ███████╗╚██████╔╝╚██████╔╝╚██████╔╝███████╗██║  ██║
-╚═╝      ╚═════╝  ╚══════╝ ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝
-</pre>
-
+<!-- Animated typing summary (dynamic lines) -->
 <p>
-**One-line mission:** <em>“Turn historical admissions data into clear decisions — models you trust, stories you act on.”</em>
+  <img alt="summary-typing" src="https://readme-typing-svg.herokuapp.com?size=26&color=0a84ff&center=true&width=820&lines=Feature+Engineering+%7C+Model+Explainability;Logistic+Regression+%7C+Decision+Tree+%7C+SVM;Actionable+Insights+for+Admissions" />
 </p>
 
+<!-- Badge row (glossy) -->
 <p>
-🔎  **Focus:** Feature engineering · Model explainability · Robust validation  
-⚙️  **Tech:** R • ggplot2 • caret • rpart  
-📊  **Deliverables:** Clean dataset • 3 predictive models • 10+ publication-ready plots
+  <img src="https://img.shields.io/badge/Domain-Education-0b63ff?style=for-the-badge&logo=readme" alt="Domain" />
+  <img src="https://img.shields.io/badge/Language-R-276DC3?style=for-the-badge&logo=r" alt="R" />
+  <img src="https://img.shields.io/badge/Artifacts-Notebooks%20%26%20Scripts-00b894?style=for-the-badge" alt="Artifacts" />
+  <img src="https://img.shields.io/badge/Status-Complete-success?style=for-the-badge" alt="Status" />
 </p>
 
+<!-- Cinematic animated banner GIF (replace src with assets/banner.gif for your own) -->
 <p>
-<span style="font-size:14px">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="cinematic-banner" width="920" style="border-radius:14px; box-shadow: 0 18px 50px rgba(15,23,42,0.6); border: 1px solid rgba(255,255,255,0.03);" />
+</p>
+
+<!-- Layered mini-cards (floating effect) -->
+<p>
+  <img src="https://img.shields.io/badge/📊+Visuals-10%2B%20Plots-blueviolet?style=for-the-badge" alt="visuals" style="margin-right:6px; box-shadow: 0 6px 18px rgba(10,10,20,0.25)" />
+  <img src="https://img.shields.io/badge/🧠+Models-LogReg%2C+Tree%2C+SVM-green?style=for-the-badge" alt="models" style="margin-right:6px; box-shadow: 0 6px 18px rgba(10,10,20,0.25)" />
+  <img src="https://img.shields.io/badge/🧹+Cleaning-Feature+Eng-orange?style=for-the-badge" alt="cleaning" style="box-shadow: 0 6px 18px rgba(10,10,20,0.25)" />
+</p>
+
+<!-- Punch line -->
+<p style="margin-top:12px; font-size:15px; color:#94a3b8; max-width:900px;">
+  <em style="color:#0ea5e9">One-click walkthrough:</em> clean data → engineered features → validated models → actionable insights.  
+  Built to explainable standards — ready for presentations and reproducible research.
 </p>
 
 </div>
 
-> **"Unlocking the factors that drive college admissions — data, models, and decisions."**
-
-**Quick snapshot:**  
-- 🔍 Exploratory & descriptive analysis  
-- 🧠 Predictive models: Logistic Regression, Decision Tree, SVM  
-- ✅ Validation & model selection with clear metrics  
-- 📊 10+ publication-ready visualizations (see `images/`)  
-
----
-
-<!-- Compact project card -->
-<table>
-  <tr>
-    <td align="center"><strong>📥 Dataset</strong><br/><a href="ADD_LINK_HERE">admissions.csv</a></td>
-    <td align="center"><strong>🧾 Report</strong><br/><a href="ADD_LINK_HERE">Final Report (PDF)</a></td>
-    <td align="center"><strong>🧰 Scripts</strong><br/><a href="ADD_LINK_HERE">/scripts (R)</a></td>
-    <td align="center"><strong>📈 Visuals</strong><br/><a href="ADD_LINK_HERE">/images</a></td>
-  </tr>
-</table>
-
----
-
-</div>
-
-<!-- End hero header -->
 
 
 ## 🏛️ Background and Objective
@@ -150,5 +136,6 @@ Below are a few key plots from the analysis. All plots generated by the scripts 
     source("scripts/00_run_all_analysis.R")
     ```
 5.  Alternatively, run each script in the `scripts/` folder in numerical order.
+
 
 

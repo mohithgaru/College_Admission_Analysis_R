@@ -1,0 +1,16 @@
+# History
+.Rhistory
+.Rapp.history
+
+# Session
+.RData
+.RDataTmp
+
+# User-specific
+.Rproj.user/
+
+# RStudio
+.R_api_client
+
+# Other R temporary files
+.Renviron
